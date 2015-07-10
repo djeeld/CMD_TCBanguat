@@ -1,0 +1,6 @@
+c:\users\stu\documents\visual studio 2013\Projects\CMD_TCBanguat\CMD_TCBanguat\bin\Debug\CMD_TCBanguat.exe.config
+c:\users\stu\documents\visual studio 2013\Projects\CMD_TCBanguat\CMD_TCBanguat\bin\Debug\CMD_TCBanguat.exe
+c:\users\stu\documents\visual studio 2013\Projects\CMD_TCBanguat\CMD_TCBanguat\bin\Debug\CMD_TCBanguat.pdb
+c:\users\stu\documents\visual studio 2013\Projects\CMD_TCBanguat\CMD_TCBanguat\obj\Debug\CMD_TCBanguat.csprojResolveAssemblyReference.cache
+c:\users\stu\documents\visual studio 2013\Projects\CMD_TCBanguat\CMD_TCBanguat\obj\Debug\CMD_TCBanguat.exe
+c:\users\stu\documents\visual studio 2013\Projects\CMD_TCBanguat\CMD_TCBanguat\obj\Debug\CMD_TCBanguat.pdb
